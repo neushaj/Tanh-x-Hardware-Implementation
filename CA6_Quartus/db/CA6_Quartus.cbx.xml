@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="CA6_Quartus">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CA6_Quartus|datapath_Q:inst7|Rom_1port:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ng91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CA6_Quartus|datapath_Q:inst7|multiplier:inst4|lpm_mult:Mult0" CBX_FILE_NAME="mult_1ht.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CA6_Quartus|datapath_Q:inst7|multiplier:inst4|lpm_mult:Mult0|mult_1ht:auto_generated|alt_mac_mult:mac_mult1" CBX_FILE_NAME="mac_mult_r2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CA6_Quartus|datapath_Q:inst7|multiplier:inst4|lpm_mult:Mult0|mult_1ht:auto_generated|alt_mac_out:mac_out2" CBX_FILE_NAME="mac_out_kv82.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

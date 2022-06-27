@@ -1,0 +1,20 @@
+`timescale 1ns/1ns
+module PartD_Q_TB();
+reg start=0,clock=0,reset=0;
+reg [15:0]X;
+wire [15:0]Y;
+wire ready;
+CA6_Quartus MUT(ready,start,clock,reset,X,Y);
+initial begin
+  #10 reset=1;
+  #20 reset=0;
+  #20 start=1;
+  #50 X=$random;
+  #20000 $stop;
+end
+initial begin
+  #70 clock=1;
+  repeat(100) #30 clock=~clock;
+  #20 $stop;
+end
+endmodule

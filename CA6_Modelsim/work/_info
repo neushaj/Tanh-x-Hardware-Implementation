@@ -1,0 +1,259 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder
+Z1 !s100 IVNUe_k7FY_W6`0eh@`k43
+Z2 I=C[8dLdVPk`bJ5gEI450h2
+Z3 V[:gMZY2f]2Zz`Oj3^KjEZ2
+Z4 dC:\Users\Neusha\Desktop\CA6\CA6_Modelsim
+Z5 w1595874160
+Z6 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/tanh_dp_forQuartus.v
+Z7 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/tanh_dp_forQuartus.v
+L0 11
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1595935927.239000
+Z10 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/tanh_dp_forQuartus.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/tanh_dp_forQuartus.v|
+Z12 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vAddress_ROM
+Z13 !s100 n[zRDDdMEhiSemVZ=`gHb1
+Z14 I>NXQcI@T`LfXY__Hmij9^2
+Z15 V3Y9e<jC9c<gH;Nf1X=]o51
+R4
+R5
+R6
+R7
+L0 2
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z16 n@address_@r@o@m
+!i10b 1
+!s85 0
+!s101 -O0
+vCA6_Quartus
+Z17 !s100 W0n]Q5;l9AnSKQ@6NJmNJ1
+Z18 INeiF762RjC[F8UEGQWH6m3
+Z19 Vc2>k0d_Ac<Ck2z5QObfK<3
+R4
+Z20 w1595929070
+Z21 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/CA6_Quartus.vo
+Z22 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/CA6_Quartus.vo
+L0 31
+R8
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/CA6_Quartus.vo|
+R12
+Z24 n@c@a6_@quartus
+Z25 !s108 1595935928.554000
+Z26 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/CA6_Quartus.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrolunit_tanh
+Z27 !s100 2GznSP7YOXQTe;I^>4TaZ1
+Z28 IZaRD2]j@DTCXR4JhO1dYI3
+Z29 VC4b[HGgVDf2=bQAb2<9^T3
+R4
+Z30 w1595874176
+Z31 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/controlunit_tanh.v
+Z32 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/controlunit_tanh.v
+L0 2
+R8
+r1
+31
+Z33 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/controlunit_tanh.v|
+R12
+Z34 !s108 1595935926.704000
+Z35 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/controlunit_tanh.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath_tanh
+Z36 !s100 gc^3dR]MRM]o`DlUF[nQa0
+Z37 II=S?kO`Eno3C<J8[A_]Rf2
+Z38 Vh^GPi_z>W3ociT<X4Tz>F1
+R4
+Z39 w1595926280
+Z40 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/datapath_tanh.v
+Z41 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/datapath_tanh.v
+L0 2
+R8
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/datapath_tanh.v|
+R12
+Z43 !s108 1595935926.941000
+Z44 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/datapath_tanh.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z45 !s100 E4]>RnMeHa<2Fk=zmR4OH1
+Z46 IlQmKI=CfYmhZT8`:eOcOo1
+Z47 VUHX^A>SDbM5>PGGlK=]8Y2
+R4
+R5
+R6
+R7
+L0 15
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2inputs
+Z48 !s100 8_EaAf`MC`LjY>keeMWW>0
+Z49 I]IabNK2I_YJRLX2M>kDWV1
+Z50 V_U3CId5GjoDEiA;9]Oo>G1
+R4
+R5
+R6
+R7
+L0 26
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z51 n@m@u@x_2inputs
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_3inputs
+Z52 !s100 c8e=6f<S5S1`YfU5niZLm3
+Z53 I2[2PB0lESETWn96:5U=Qn1
+Z54 VF<8ko_WIT^;XkO;=<7GWD1
+R4
+R5
+R6
+R7
+L0 30
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z55 n@m@u@x_3inputs
+!i10b 1
+!s85 0
+!s101 -O0
+vPartD_Q_TB
+Z56 !s100 fgff1bXk?kC8@E@9gE2^Y1
+Z57 IP5Jb4P:NWO>lC3EiVfK2>1
+Z58 V2Gg>NeMf=^@V7;Ven3XF40
+R4
+Z59 w1595929329
+Z60 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_PartD_Q.v
+Z61 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_PartD_Q.v
+L0 2
+R8
+r1
+31
+Z62 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_PartD_Q.v|
+R12
+Z63 n@part@d_@q_@t@b
+Z64 !s108 1595933005.466000
+Z65 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_PartD_Q.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPartD_TB
+Z66 !s100 =I14m_aSNO1dN2_8mhRS`1
+Z67 IgdcLSB[bo0XH0Df6Fj:G]2
+Z68 VV4DSK@6JQj^j@bQc5?SfO1
+R4
+Z69 w1595935354
+Z70 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partD.v
+Z71 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partD.v
+L0 2
+R8
+r1
+31
+Z72 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partD.v|
+R12
+Z73 n@part@d_@t@b
+!i10b 1
+!s85 0
+Z74 !s108 1595935929.023000
+Z75 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partD.v|
+!s101 -O0
+vPartF_TB
+!i10b 1
+!s100 <>4FcCanO`8GPHE]0_Ofi3
+I2IEILzMM6L;37i@_JRQi^0
+Z76 Vjo>cY3TP;=c[ejWA11;_30
+R4
+w1595935923
+Z77 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partF.v
+Z78 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partF.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1595935929.274000
+!s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partF.v|
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partF.v|
+!s101 -O0
+R12
+Z80 n@part@f_@t@b
+vregister
+Z81 !s100 ^dPfRYGPfa1GO`@GC_KIH3
+Z82 I6mJMCe=E1AZQ1^cHJza:Q1
+Z83 VVHz70f[j>5YJgA>jZL?ZY1
+R4
+R5
+R6
+R7
+L0 21
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtanh_modelsim
+Z84 !s100 @>9i]`DG1@LA?C@<7RQ=;2
+Z85 IWJi>8MBea<ih898@n`i]21
+Z86 V4m_zmfWJ^QX=;b97X>Q;31
+R4
+Z87 w1595921869
+Z88 8C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/Tanh_ModelSim.v
+Z89 FC:/Users/Neusha/Desktop/CA6/CA6_Modelsim/Tanh_ModelSim.v
+L0 2
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/Tanh_ModelSim.v|
+R12
+Z91 !s108 1595935928.286000
+Z92 !s107 C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/Tanh_ModelSim.v|
+!i10b 1
+!s85 0
+!s101 -O0

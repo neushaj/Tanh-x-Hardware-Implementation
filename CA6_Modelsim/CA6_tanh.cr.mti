@@ -1,0 +1,60 @@
+C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partF.v {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PartF_TB
+
+Top level modules:
+	PartF_TB
+
+} {} {}} C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/Tanh_ModelSim.v {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/Tanh_ModelSim.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tanh_modelsim
+
+Top level modules:
+	tanh_modelsim
+
+} {} {}} C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/CA6_Quartus.vo {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/CA6_Quartus.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CA6_Quartus
+
+Top level modules:
+	CA6_Quartus
+
+} {} {}} C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/datapath_tanh.v {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/datapath_tanh.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath_tanh
+
+Top level modules:
+	datapath_tanh
+
+} {} {}} C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/tanh_dp_forQuartus.v {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/tanh_dp_forQuartus.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Address_ROM
+-- Compiling module adder
+-- Compiling module multiplier
+-- Compiling module register
+-- Compiling module MUX_2inputs
+-- Compiling module MUX_3inputs
+
+Top level modules:
+	Address_ROM
+	adder
+	multiplier
+	register
+	MUX_2inputs
+	MUX_3inputs
+
+} {} {}} C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partD.v {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/testbench_partD.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PartD_TB
+
+Top level modules:
+	PartD_TB
+
+} {} {}} C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/controlunit_tanh.v {1 {vlog -work work C:/Users/Neusha/Desktop/CA6/CA6_Modelsim/controlunit_tanh.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controlunit_tanh
+
+Top level modules:
+	controlunit_tanh
+
+} {} {}}
